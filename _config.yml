@@ -131,14 +131,14 @@ author:
 footer:
   links:
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/LTGNetwork"
+      icon: "fa-brands fa-twitter-square"
+       url: "https://twitter.com/LTGNetwork"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      # url:    
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/LTGNetwork"
+      icon: "fa-brands fa-github-square"
+       url: "https://github.com/LTGNetwork"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
