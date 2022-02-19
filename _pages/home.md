@@ -33,4 +33,6 @@ intro:
 
 {% include feature_row id="intro" type="center" %}
 
+## Featured Content
+
 {% include feature_row %}
