@@ -9,7 +9,7 @@ header:
   caption:
 excerpt: 'The official website of the home of LaroTayoGaming, Taym Pers! and The Fellow Gamer Podcast.<br />'
 feature_row:
-  - image_path: ltg-background.png
+  - image_path: /assets/images/ltg-background.png
     alt: "ltg"
     title: "LaroTayoGaming"
     excerpt: "The one and only LTG is here for more games to play, and more content to slay!"
