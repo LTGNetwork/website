@@ -58,7 +58,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true # true, false (default)
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -132,13 +132,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fa-brands fa-twitter-square"
-       url: "https://twitter.com/LTGNetwork"
+      # url: "https://twitter.com/LTGNetwork"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:    
     - label: "GitHub"
       icon: "fa-brands fa-github-square"
-       url: "https://github.com/LTGNetwork"
+      # url: "https://github.com/LTGNetwork"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
