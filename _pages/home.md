@@ -27,12 +27,8 @@ feature_row:
     excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it, whatever!"
     url: "/docs/license/"
     btn_label: "Learn More"
-intro:
-  - excerpt: 'Get notified when we post a video or a podcast! &nbsp; [<i class="fa-brands fa-twitter"></i> @LTGNetwork](https://twitter.com/LTGNetwork){: .btn .btn--twitter}'
 ---
 
-{% include feature_row id="intro" type="center" %}
-
-## Featured Content
+## Featured Content Creators
 
 {% include feature_row %}
