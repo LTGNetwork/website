@@ -1,6 +1,7 @@
 ---
 layout: splash
 permalink: /
+title: Welcome to LTG Network!
 header:
   overlay_color: "#69006b"
   overlay_image: mm-home-page-feature.jpg
