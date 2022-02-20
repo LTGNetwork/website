@@ -17,16 +17,16 @@ feature_row:
     url: "https://ltg.ltg.network"
     btn_label: "Learn More"
   - image_path: mm-responsive-feature.png
-    alt: "fully responsive"
+    alt: "taympers"
     title: "Taym Pers!"
-    excerpt: "Built on HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
+    excerpt: "The Tropas are here to play some games, reacting to the games, and doing some random stuff!"
+    url: "https://taympers.ltg.network"
     btn_label: "Learn More"
   - image_path: mm-free-feature.png
-    alt: "100% free"
+    alt: "tfgp"
     title: "The Fellow Gamer Podcast"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it, whatever!"
-    url: "/docs/license/"
+    excerpt: "This is not your ordinary podcast, because we are talking about great games, with random entertainment for you guys!"
+    url: "https://tfgp.ltg.network"
     btn_label: "Learn More"
 ---
 
