@@ -1,14 +1,9 @@
 ---
-layout: splash
+layout: single
 permalink: /terms/
 title: "Terms and Conditions"
 last_modified_at: 2022-02-18
 toc: true
-
-header:
-  overlay_color: "#69006b"
-  overlay_image: mm-home-page-feature.jpg
-excerpt: 'Please read it carefully.<br />'
 ---
 
 Welcome to LTG Network!
