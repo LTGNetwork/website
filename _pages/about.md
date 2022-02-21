@@ -3,61 +3,33 @@ layout: single
 permalink: /about/
 title: "About"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
-layouts_gallery:
-  - url: /assets/images/mm-layout-splash.png
-    image_path: /assets/images/mm-layout-splash.png
-    alt: "splash layout example"
-  - url: /assets/images/mm-layout-single-meta.png
-    image_path: /assets/images/mm-layout-single-meta.png
-    alt: "single layout with comments and related posts"
-  - url: /assets/images/mm-layout-archive.png
-    image_path: /assets/images/mm-layout-archive.png
-    alt: "archive layout example"
 last_modified_at: 2021-05-11T10:23:16-04:00
+author_profile: true
 toc: true
 ---
 
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+Minim do incididunt pariatur dolor qui fugiat ea. Dolor cupidatat occaecat dolor dolor esse adipisicing in laborum eu elit in est duis. Lorem et non reprehenderit labore ex excepteur fugiat ut proident adipisicing. Voluptate ut Lorem sint aliquip mollit dolor aliquip cillum dolor mollit laborum minim officia culpa. Irure enim sit anim qui do laborum in non eu sit magna voluptate consequat esse. Duis pariatur occaecat irure proident laboris adipisicing amet sit irure reprehenderit do anim commodo non.
 
-{% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
+## Chapter 2
 
-[Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large}
+Eu quis id cillum reprehenderit fugiat ipsum in aute velit. Et pariatur fugiat mollit consequat culpa ea laborum cillum sint laborum nostrud. Sunt pariatur ad sint cupidatat commodo dolor nisi fugiat ipsum. Velit dolore culpa exercitation enim velit fugiat enim fugiat cupidatat. Nostrud amet reprehenderit et nostrud mollit fugiat. Esse eiusmod anim reprehenderit officia incididunt et labore aliqua ullamco et amet.
 
-## Notable Features
+## Chapter 3
 
-- Bundled as a "theme gem" for easier install/upgrading.
-- Compatible with GitHub Pages.
-- Support for Jekyll's built-in Sass/SCSS preprocessor.
-- Nine different skins (color variations).
-- Several responsive layout options (single, archive index, search, splash, and paginated home page).
-- Optimized for search engines with support for [Twitter Cards](https://dev.twitter.com/cards/overview) and [Open Graph](http://ogp.me/) data
-- Optional [header images](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#headers), [custom sidebars](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#sidebars), [table of contents](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#table-of-contents), [galleries](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery), related posts, [breadcrumb links](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#breadcrumb-navigation-beta), [navigation lists](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#navigation-list), and more.
-- Commenting support (powered by [Disqus](https://disqus.com/), [Facebook](https://developers.facebook.com/docs/plugins/comments), [Discourse](https://www.discourse.org/), [utterances](https://utteranc.es/), [giscus](https://giscus.app/), static-based via [Staticman v1 and v2](https://staticman.net/), and custom).
-- [Google Analytics](https://www.google.com/analytics/) support.
-- UI localized text in English (default), Arabic (عربي), Brazilian Portuguese (Português brasileiro), Catalan, Chinese, Danish, Dutch, Finnish, French (Français), German (Deutsch), Greek, Hebrew, Hindi (हिंदी), Hungarian, Indonesian, Irish (Gaeilge), Italian (Italiano), Japanese, Korean, Malayalam, Myanmar (Burmese), Nepali (Nepalese), Norwegian (Norsk), Persian (فارسی), Polish, Punjabi (ਪੰਜਾਬੀ), Romanian, Russian, Slovak, Spanish (Español), Swedish, Thai, Turkish (Türkçe), and Vietnamese.
+Laborum do exercitation ipsum mollit velit ea excepteur minim sint cupidatat eu velit irure elit. Pariatur do ad ipsum reprehenderit aliqua Lorem labore amet reprehenderit cupidatat Lorem irure. Excepteur culpa proident officia adipisicing ullamco id eiusmod. Lorem ex dolore cillum est magna esse culpa.
 
----
+## Chapter 4
 
-## Credits
+Duis occaecat minim aute laboris. Sunt duis ex amet irure dolor aliquip tempor pariatur Lorem. Consequat qui proident velit dolor proident eiusmod Lorem consectetur qui non. In quis proident consequat commodo mollit minim mollit enim ipsum cupidatat reprehenderit eiusmod.
 
-### Icons + Demo Images:
+In ut adipisicing aliqua officia dolor minim elit deserunt cillum occaecat. Amet minim pariatur laborum commodo ea dolor nostrud duis occaecat. Aliqua nulla reprehenderit proident irure nulla proident non consequat non mollit nisi ut. Velit duis commodo proident nulla.
 
-- [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
-- [Font Awesome](http://fontawesome.io/)
-- [Unsplash](https://unsplash.com/)
+Lorem tempor ea ullamco quis non officia commodo aliqua occaecat cillum id. Ad quis do non mollit laborum id qui duis ipsum quis pariatur exercitation ut fugiat. Est mollit proident aliqua commodo ad exercitation. Est aute mollit irure deserunt enim pariatur elit. Ex est ut Lorem duis elit nostrud aliqua in excepteur et qui ex sint. Labore pariatur culpa ullamco ipsum proident ullamco adipisicing magna sunt voluptate. Eu occaecat veniam excepteur sit culpa Lorem aute.
 
-### Other:
+Duis aliquip magna amet amet cillum pariatur reprehenderit magna nostrud ea dolor consequat pariatur ullamco. Cupidatat commodo labore occaecat aute voluptate consequat exercitation minim. Ea ea culpa elit culpa mollit esse.
 
-- [Jekyll](https://jekyllrb.com/)
-- [jQuery](https://jquery.com/)
-- [Susy](http://susy.oddbird.net/)
-- [Breakpoint](http://breakpoint-sass.com/)
-- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
-- [FitVids.JS](http://fitvidsjs.com/)
-- Greedy Navigation - [lukejacksonn](https://codepen.io/lukejacksonn/pen/PwmwWV)
-- [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
-- [Lunr](http://lunrjs.com)
+Nisi labore ut excepteur officia non incididunt. Quis anim minim veniam nisi quis. Consectetur officia veniam laboris in eu. Proident aliquip nostrud commodo do aliqua. Sunt id aute amet magna deserunt excepteur magna. Commodo cupidatat veniam non cupidatat nostrud esse nisi minim.
 
----
+Reprehenderit dolor nisi proident deserunt minim ea. Eu dolore et excepteur velit excepteur commodo ipsum proident ea non commodo excepteur reprehenderit laborum. Veniam quis proident occaecat tempor ad ex excepteur aliquip exercitation voluptate consectetur nisi ipsum. Elit sint qui anim laboris cillum labore ipsum sit ullamco laboris. Nisi incididunt laborum nulla et ut. Est ipsum commodo cillum duis irure non voluptate.
 
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
+Magna exercitation veniam veniam officia incididunt magna laborum. Nostrud labore dolore duis velit velit adipisicing nulla ad commodo ut exercitation qui id. Anim eu Lorem do in consectetur ut ut reprehenderit occaecat cillum ut elit ea. Consequat esse ipsum sint id. Lorem id velit ea excepteur est excepteur ut Lorem dolor. Et aliqua aliqua sit consectetur mollit laborum consectetur eiusmod aliquip ex. Proident fugiat qui do cillum aliqua quis sint laboris ex proident.
