@@ -1,34 +1,85 @@
 ---
 permalink: /about/
-title: "About Us"
+title: "About"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
-modified: 2021-02-21T19:54:00+08:00
+layouts_gallery:
+  - url: /assets/images/mm-layout-splash.png
+    image_path: /assets/images/mm-layout-splash.png
+    alt: "splash layout example"
+  - url: /assets/images/mm-layout-single-meta.png
+    image_path: /assets/images/mm-layout-single-meta.png
+    alt: "single layout with comments and related posts"
+  - url: /assets/images/mm-layout-archive.png
+    image_path: /assets/images/mm-layout-archive.png
+    alt: "archive layout example"
+last_modified_at: 2021-05-11T10:23:16-04:00
+toc: true
 ---
 
-Aliqua aliquip est consectetur ea. Deserunt incididunt voluptate Lorem voluptate elit elit commodo elit veniam ea consequat. Ex ipsum cupidatat ex amet enim cupidatat et voluptate Lorem eu dolor. Velit nulla aliqua proident nulla.
+Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
 
-## Chapter 2
+{% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
 
-Laboris pariatur dolor aute dolore nostrud aute. Ipsum id culpa id eiusmod mollit quis ex id ullamco occaecat. Eu exercitation adipisicing est officia minim commodo Lorem. Duis sunt dolore qui labore aliquip.
+[Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large}
 
-## Chapter 3
+## Notable Features
 
-Ullamco ex ut velit aute sit culpa sit consequat nostrud elit. Velit enim anim aliquip deserunt magna velit ex veniam nulla fugiat non. Do ullamco enim exercitation deserunt labore et commodo non. Dolor deserunt duis ea eu qui sit ad deserunt. Fugiat ad proident excepteur adipisicing esse labore nulla aliqua ipsum laborum elit officia. Nulla commodo non est elit et consectetur sit irure cillum duis est aliquip.
+- Bundled as a "theme gem" for easier install/upgrading.
+- Compatible with GitHub Pages.
+- Support for Jekyll's built-in Sass/SCSS preprocessor.
+- Nine different skins (color variations).
+- Several responsive layout options (single, archive index, search, splash, and paginated home page).
+- Optimized for search engines with support for [Twitter Cards](https://dev.twitter.com/cards/overview) and [Open Graph](http://ogp.me/) data
+- Optional [header images](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#headers), [custom sidebars](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#sidebars), [table of contents](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#table-of-contents), [galleries](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery), related posts, [breadcrumb links](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#breadcrumb-navigation-beta), [navigation lists](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#navigation-list), and more.
+- Commenting support (powered by [Disqus](https://disqus.com/), [Facebook](https://developers.facebook.com/docs/plugins/comments), [Discourse](https://www.discourse.org/), [utterances](https://utteranc.es/), [giscus](https://giscus.app/), static-based via [Staticman v1 and v2](https://staticman.net/), and custom).
+- [Google Analytics](https://www.google.com/analytics/) support.
+- UI localized text in English (default), Arabic (عربي), Brazilian Portuguese (Português brasileiro), Catalan, Chinese, Danish, Dutch, Finnish, French (Français), German (Deutsch), Greek, Hebrew, Hindi (हिंदी), Hungarian, Indonesian, Irish (Gaeilge), Italian (Italiano), Japanese, Korean, Malayalam, Myanmar (Burmese), Nepali (Nepalese), Norwegian (Norsk), Persian (فارسی), Polish, Punjabi (ਪੰਜਾਬੀ), Romanian, Russian, Slovak, Spanish (Español), Swedish, Thai, Turkish (Türkçe), and Vietnamese.
 
-## Chapter 4
+## Demo Pages
 
-Officia nulla labore in eu pariatur dolor occaecat. Anim veniam minim et fugiat tempor fugiat consectetur. Aliquip aliquip fugiat reprehenderit nostrud cupidatat culpa commodo est proident magna eu officia. Velit nostrud excepteur occaecat sunt esse deserunt excepteur. Et reprehenderit ipsum minim incididunt aliqua. Non magna consequat laborum sit ipsum cillum amet commodo sit consectetur. Laborum elit ea cillum magna anim qui cillum enim.
+| Name                                        | Description                                           |
+| ------------------------------------------- | ----------------------------------------------------- |
+| [Post with Header Image][header-image-post] | A post with a large header image. |
+| [HTML Tags and Formatting Post][html-tags-post] | A variety of common markup showing how the theme styles them. |
+| [Syntax Highlighting Post][syntax-post] | Post displaying highlighted code. |
+| [Post with a Gallery][gallery-post] | A post showing several images wrapped in `<figure>` elements. |
+| [Sample Collection Page][sample-collection] | Single page from a collection. |
+| [Categories Archive][categories-archive] | Posts grouped by category. |
+| [Tags Archive][tags-archive] | Posts grouped by tag. |
 
-Mollit non et ipsum ut. Aute aute reprehenderit ea dolore sunt ad aliqua tempor dolor amet culpa tempor. Ullamco occaecat ipsum incididunt culpa quis magna. Nulla pariatur excepteur non elit non in qui. Incididunt ut ut do occaecat dolor. Qui aute culpa dolore elit tempor quis cupidatat. Duis ex nisi pariatur eu cillum aliquip anim reprehenderit anim velit consequat.
+For even more demo pages check the [posts archive][year-archive].
 
-Reprehenderit officia laborum in enim quis magna. Magna amet id enim ea dolor. Nulla et anim proident amet sit est eu officia duis. Et commodo sint ipsum exercitation est consequat eiusmod anim anim dolor sint ex. Eu mollit minim est aliqua ad laboris ea consectetur minim.
+[header-image-post]: {{ "" | relative_url }}{% post_url 2012-03-15-layout-header-image-text-readability %}
+[gallery-post]: {{ "" | relative_url }}{% post_url 2010-09-09-post-gallery %}
+[html-tags-post]: {{ "" | relative_url }}{% post_url 2013-01-11-markup-html-tags-and-formatting %}
+[syntax-post]: {{ "" | relative_url }}{% post_url 2013-08-16-markup-syntax-highlighting %}
+[sample-collection]: {{ "/recipes/chocolate-chip-cookies/" | relative_url }}
+[categories-archive]: {{ "/categories/" | relative_url }}
+[tags-archive]: {{ "/tags/" | relative_url }}
+[year-archive]: {{ "/year-archive/" | relative_url }}
 
-Officia ut consectetur id ea id cillum tempor proident irure eu consequat consequat exercitation. Cillum ea fugiat labore culpa eu id. Incididunt ipsum culpa laborum non nulla veniam dolore irure. Consectetur cupidatat dolor nulla id aute dolor ea amet eu aute.
+---
 
-Nisi sit est aute non. Occaecat in anim commodo nisi ad. Ad deserunt ut consectetur cupidatat officia dolor fugiat. Est pariatur ullamco incididunt ullamco minim.
+## Credits
 
-Minim pariatur Lorem excepteur eiusmod eu incididunt veniam nostrud tempor Lorem sunt. Nisi labore ea laborum tempor ea incididunt incididunt ullamco est consequat. Id culpa velit sint id. Ipsum veniam velit cillum laborum occaecat nostrud ullamco ea mollit enim aliquip exercitation.
+### Icons + Demo Images:
 
-Veniam mollit incididunt non excepteur id pariatur officia dolore ad esse magna. Aute aliquip ad aliqua incididunt voluptate dolor ipsum dolore dolor sunt non tempor consequat voluptate. Sint proident tempor nisi sunt et. Quis cupidatat sint aute aliquip anim. Mollit velit commodo nostrud enim. Qui anim amet enim aliqua exercitation ex incididunt.
+- [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
+- [Font Awesome](http://fontawesome.io/)
+- [Unsplash](https://unsplash.com/)
 
-Dolor et pariatur esse fugiat tempor in proident incididunt. Exercitation occaecat dolore ad do Lorem id tempor cupidatat pariatur Lorem excepteur quis. Nulla laboris dolore occaecat deserunt nisi veniam minim. Amet ad Lorem ex laboris cupidatat cillum aute commodo cupidatat minim. Ex amet cillum exercitation anim occaecat dolore id Lorem proident eiusmod in minim velit est. Reprehenderit in et amet velit exercitation aliquip nulla magna do laborum eiusmod excepteur.
+### Other:
+
+- [Jekyll](https://jekyllrb.com/)
+- [jQuery](https://jquery.com/)
+- [Susy](http://susy.oddbird.net/)
+- [Breakpoint](http://breakpoint-sass.com/)
+- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
+- [FitVids.JS](http://fitvidsjs.com/)
+- Greedy Navigation - [lukejacksonn](https://codepen.io/lukejacksonn/pen/PwmwWV)
+- [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
+- [Lunr](http://lunrjs.com)
+
+---
+
+Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
