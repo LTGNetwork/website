@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Privacy Policy"
+permalink: /privacy/
 description: Please read this carefully.
 last_modified_at: 2022-02-18
 author_profile: true
