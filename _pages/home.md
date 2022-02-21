@@ -33,3 +33,16 @@ feature_row:
 ## Featured Content Creators
 
 {% include feature_row %}
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6996503694866080"
+     crossorigin="anonymous"></script>
+<!-- LTG Default -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6996503694866080"
+     data-ad-slot="2294699691"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
