@@ -103,10 +103,10 @@ analytics:
 # Site Author
 author:
   name             : "LTG Network"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/ltgn1000.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "The official website of the LTG Network."
   location         : "Philippines"
-  email            :
+  email            : "emailme@ltg.network"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
