@@ -4,5 +4,7 @@ main:
     url: /
   - title: "About Us"
     url: /about
-  # - title: ""
-  #  url: 
+  - title: "Terms And Conditions"
+    url: /terms
+  - title: "Privacy Policy"
+    url: /privacy
