@@ -22,7 +22,7 @@ feature_row:
     excerpt: "The Tropas are here to play some games, reacting to the games, and doing some random stuff!"
     url: "https://taympers.ltg.network"
     btn_label: "Learn More"
-  - image_path: mm-free-feature.png
+  - image_path: /assets/images/tfgp.png
     alt: "tfgp"
     title: "The Fellow Gamer Podcast"
     excerpt: "This is not your ordinary podcast, because we are talking about great games, with random entertainment for you guys!"
