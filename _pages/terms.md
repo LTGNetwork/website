@@ -13,7 +13,7 @@ excerpt: 'Please read it carefully.<br />'
 
 Welcome to LTG Network!
 
-These terms and conditions outline the rules and regulations for the use of LTG Network's Website, located at [ltg.link](https://ltg.link).
+These terms and conditions outline the rules and regulations for the use of LTG Network's Website, located at [ltg.network](https://ltg.network).
 
 By accessing this website we assume you accept these terms and conditions. Do not continue to use LTG Network if you do not agree to take all of the terms and conditions stated on this page.
 
