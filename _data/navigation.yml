@@ -4,14 +4,14 @@ main:
     url: /
   - title: "About Us"
     url: /about
-  - title: "Blog"
-    url: /blog
   - title: "LaroTayoGaming"
     url: https://ltg.ltg.link
   - title: "Taym Pers!"
     url: https://taympers.ltg.link
   - title: "The Fellow Gamer Podcast"
     url: https://tfgp.ltg.link 
+  - title: "Blog"
+    url: /blog
   - title: "Terms And Conditions"
     url: /terms
   - title: "Privacy Policy"
