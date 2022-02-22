@@ -17,6 +17,7 @@ feature_row:
     url: "https://ltg.ltg.network"
     btn_label: "Learn More"
     btn_class: "btn--primary"
+feature_row2:
   - image_path: /assets/images/taympers_bg.png
     alt: "taympers"
     title: "Taym Pers!"
@@ -24,6 +25,7 @@ feature_row:
     url: "https://taympers.ltg.network"
     btn_label: "Learn More"
     btn_class: "btn--primary"
+feature_row3:
   - image_path: /assets/images/tfgp.png
     alt: "tfgp"
     title: "The Fellow Gamer Podcast"
@@ -35,7 +37,12 @@ feature_row:
 
 ## Featured Content Creators
 
-{% include feature_row %}
+{% include feature_row type="left" %}
+
+{% include feature_row id="feature_row2" type="right" %}
+
+{% include feature_row id="feature_row3" type="left" %}
+
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6996503694866080"
      crossorigin="anonymous"></script>
