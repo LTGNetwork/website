@@ -51,7 +51,6 @@ feature_pod_tfgp:
 
 ## Featured Podcasts
 
-
 {% include feature_row id="feature_pod_tpp" type="left" %}
 
 {% include feature_row id="feature_pod_tfgp" type="right" %}
