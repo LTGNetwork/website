@@ -2,14 +2,8 @@
 main:
   - title: "Home"
     url: /
-  - title: "About Us"
+  - title: "About the Network"
     url: /about
-  - title: "LaroTayoGaming"
-    url: https://ltg.ltg.link
-  - title: "Taym Pers!"
-    url: https://taympers.ltg.link
-  - title: "The Fellow Gamer Podcast"
-    url: https://tfgp.ltg.link 
   - title: "Blog"
     url: /blog
   - title: "Terms And Conditions"
