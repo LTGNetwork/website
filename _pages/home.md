@@ -9,7 +9,7 @@ header:
   cta_url: "/about"
   caption:
 excerpt: 'The official website of the home of LaroTayoGaming, Taym Pers! and The Fellow Gamer Podcast.<br />'
-feature_row:
+feature_main_ltg:
   - image_path: /assets/images/ltg-background.png
     alt: "ltg"
     title: "LaroTayoGaming"
@@ -17,7 +17,7 @@ feature_row:
     url: "https://ltg.ltg.network"
     btn_label: "Learn More"
     btn_class: "btn--primary"
-feature_row2:
+feature_main_tp:
   - image_path: /assets/images/taympers_bg.png
     alt: "taympers"
     title: "Taym Pers!"
@@ -25,7 +25,15 @@ feature_row2:
     url: "https://taympers.ltg.network"
     btn_label: "Learn More"
     btn_class: "btn--primary"
-feature_row3:
+feature_pod_tpp:
+  - image_path: /assets/images/taympers_bg.png
+    alt: "taympers"
+    title: "Taym Pers! Podcast"
+    excerpt: "From fun and games, we are going onto much more serious topics, so if you are not into it, welp of course you know what to do."
+    url: "https://tpp.ltg.network"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+feature_pod_tfgp:
   - image_path: /assets/images/tfgp.png
     alt: "tfgp"
     title: "The Fellow Gamer Podcast"
@@ -35,13 +43,18 @@ feature_row3:
     btn_class: "btn--primary"
 ---
 
-## Featured Content Creators
+## Featured Creators
 
-{% include feature_row type="left" %}
+{% include feature_row id="feature_main_ltg" type="left" %}
 
-{% include feature_row id="feature_row2" type="right" %}
+{% include feature_row id="feature_main_tp" type="right" %}
 
-{% include feature_row id="feature_row3" type="left" %}
+## Featured Podcasts
+
+
+{% include feature_row id="feature_pod_tpp" type="left" %}
+
+{% include feature_row id="feature_pod_tfgp" type="right" %}
 
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6996503694866080"
