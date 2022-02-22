@@ -16,7 +16,7 @@ feature_row:
     excerpt: "The one and only LTG is here for more games to play, and more content to slay!"
     url: "https://ltg.ltg.network"
     btn_label: "Learn More"
-  - image_path: mm-responsive-feature.png
+  - image_path: /assets/images/taympers_bg.png
     alt: "taympers"
     title: "Taym Pers!"
     excerpt: "The Tropas are here to play some games, reacting to the games, and doing some random stuff!"
