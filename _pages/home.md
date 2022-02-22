@@ -16,18 +16,21 @@ feature_row:
     excerpt: "The one and only LTG is here for more games to play, and more content to slay!"
     url: "https://ltg.ltg.network"
     btn_label: "Learn More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/taympers_bg.png
     alt: "taympers"
     title: "Taym Pers!"
     excerpt: "The Tropas are here to play some games, reacting to the games, and doing some random stuff!"
     url: "https://taympers.ltg.network"
     btn_label: "Learn More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/tfgp.png
     alt: "tfgp"
     title: "The Fellow Gamer Podcast"
     excerpt: "This is not your ordinary podcast, because we are talking about great games, with random entertainment for you guys!"
     url: "https://tfgp.ltg.network"
     btn_label: "Learn More"
+    btn_class: "btn--primary"
 ---
 
 ## Featured Content Creators
