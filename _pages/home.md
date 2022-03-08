@@ -54,16 +54,3 @@ feature_pod_tfgp:
 {% include feature_row id="feature_pod_tpp" type="left" %}
 
 {% include feature_row id="feature_pod_tfgp" type="right" %}
-
-<script async src=""
-     crossorigin="anonymous"></script>
-<!-- LTG Default -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-6996503694866080"
-     data-ad-slot="2294699691"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
