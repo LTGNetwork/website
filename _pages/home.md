@@ -14,7 +14,7 @@ feature_main_ltg:
     alt: "ltg"
     title: "LaroTayoGaming"
     excerpt: "The one and only LTG is here for more games to play, and more content to slay!"
-    url: "https://ltg.ltg.network"
+    url: "/ltg/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
 feature_main_tp:
@@ -22,7 +22,7 @@ feature_main_tp:
     alt: "taympers"
     title: "Taym Pers!"
     excerpt: "The Tropas are here to play some games, reacting to the games, and doing some random stuff!"
-    url: "https://taympers.ltg.network"
+    url: "/taympers/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
 feature_pod_tpp:
@@ -30,7 +30,7 @@ feature_pod_tpp:
     alt: "taympers"
     title: "Taym Pers! Podcast"
     excerpt: "From fun and games, we are going onto much more serious topics, so if you are not into it, welp of course you know what to do."
-    url: "https://tpp.ltg.network"
+    url: "podcast/tpp/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
 feature_pod_tfgp:
@@ -38,7 +38,7 @@ feature_pod_tfgp:
     alt: "tfgp"
     title: "The Fellow Gamer Podcast"
     excerpt: "This is not your ordinary podcast, because we are talking about great games, with random entertainment for you guys!"
-    url: "https://tfgp.ltg.network"
+    url: "podcast/tfgp/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
 ---
