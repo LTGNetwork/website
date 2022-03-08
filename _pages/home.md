@@ -55,7 +55,6 @@ feature_pod_tfgp:
 
 {% include feature_row id="feature_pod_tfgp" type="right" %}
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6996503694866080"
      crossorigin="anonymous"></script>
 <!-- LTG Default -->
