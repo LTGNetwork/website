@@ -15,14 +15,16 @@ From humble beginnings, the LTG Network is on a great journey. Help us to contin
 
 {% include support/coinbase.html %}
 
-### Taym Pers
+### Taym Pers!
 
 [Buy Me a Coffee!](https://www.buymeacoffee.com/taympers)
+
 [Odysee Invite and Tipping - Click support on the channel](https://odysee.com/$/invite/@TaymPersOD:6)
 
 ### LaroTayoGaming
 
 [SubscribeStar](https://ltg.link/ltg/subscribe)
+
 [Odysee Invite and Tipping - Click support on the channel](https://odysee.com/$/invite/@LaroTayoGaming:1)
 
 ### The Fellow Gamer Podcast
