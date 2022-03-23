@@ -30,4 +30,3 @@ From humble beginnings, the LTG Network is on a great journey. Help us to contin
 [Odysee Invite and Tipping - Click support on the channel](https://odysee.com/$/invite/@FellowGamerPodcast:3)
 
 For some inquiries, email us at [general@ltg.network](mailto:general@ltg.network)
-    
