@@ -6,6 +6,8 @@ main:
     url: /about
   - title: "Blog"
     url: /blog
+  - title: "Support Us"
+    url: /support-us
   - title: "Terms And Conditions"
     url: /terms
   - title: "Privacy Policy"
