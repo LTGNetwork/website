@@ -9,4 +9,6 @@ author_profile: true
 
 Hello there, and this is Taym Pers! where you can see some games, random stuff, and more right here on YouTube and Odysee! Btw **SAME EDIT UPLOADS AND UNCENSORED STUFF (Except Horror) are exclusively on Odysee!**
 
+## Our New Video on Odysee:
+
 {% include lbrylytics-embed/taympers.html %}
