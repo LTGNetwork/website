@@ -25,3 +25,7 @@ T - **Taym Pers! and The Fellow Gamer Podcast**
 G - **(Secret future project)**
 
 That's the meaning of the LTG Network. It is fit right?
+
+### Do you have any contracts, etc. on the network?
+
+No. You don't need to sign an exclusivity deal to join the network. You can join other networks (RR, Tier) and this network at the same time. But all of our Taym Pers! or TFGP official videos / podcast are copyrighted, except your POV gameplay.
