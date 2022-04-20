@@ -17,9 +17,11 @@ LTG Network is an independent network of people who are passionate about gaming 
 ### What LTG Network Stands For?
 
 LTG Network is not just LaroTayoGaming network. LTG Network stands for:
-L - LaroTayoGaming
-T - Taym Pers! and The Fellow Gamer Podcast
-G - (Secret future project)
+
+L - **LaroTayoGaming**
+
+T - **Taym Pers! and The Fellow Gamer Podcast**
+
+G - **(Secret future project)**
 
 That's the meaning of the LTG Network. It is fit right?
-
