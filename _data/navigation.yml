@@ -2,13 +2,15 @@
 main:
   - title: "Home"
     url: /
-  - title: "About the Network"
+  - title: "About"
     url: /about
+  - title: "FAQ"
+    url: /faq
   - title: "Blog"
     url: /blog
   - title: "Support Us"
     url: /support-us
-  - title: "Terms And Conditions"
+  - title: "Terms"
     url: /terms
   - title: "Privacy Policy"
     url: /privacy
