@@ -29,3 +29,7 @@ That's the meaning of the LTG Network. It is fit right?
 ### Do you have any contracts, etc. on the network?
 
 No. You don't need to sign an exclusivity deal to join the network. You can join other networks (RR, Tier) and this network at the same time. But all of our Taym Pers! or TFGP official videos / podcast are copyrighted, except your POV gameplay.
+
+### Do you have a Discord Server?
+
+For the whole network, yes. Click the link [here](https://discord.gg/QaCPhtcSD6) to join. You need to pass the altdentifier bot btw, to prevent alts.
