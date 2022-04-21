@@ -40,7 +40,7 @@ Yes, you can. You can support the network by clicking the support icon right on 
 
 ### I have some business or collab inquiries, what do I do?
 
-You can go to
+You can go to our contact us page, or go to our chatbox on the bottom right of the screen.
 
 ## Taym Pers! Questions
 
@@ -50,4 +50,18 @@ All of the Taym Pers! Questions such as same edit upload, etc.
 
 Odysee is the best alternative to YouTube. Because you can edit the whole video, if you want to have some changes, the cryptocurrency token LBC which is ₱1 at the time of this writing, and the ability to have a backup, and to avoid demonetization in the future. That's why we have uncensored and censored videos separate from YT and Odysee. Except for horror stuff.
 
-### What is the difference between TFGP 
+### What is the difference between posting on YouTube rather than posting on Odysee?
+
+As I said earlier, Odysee is a backup video platform and an alternative to YouTube. So if YouTube demonetized or if YouTube takes down our video, well we have a backup. It is on the LBRY protocol, so it can't be censored or anything.
+
+### Why is the video on YouTube uncensored? (except horror)
+
+To prevent demonitization. That's it.
+
+## TFGP Questions
+
+Some of the questions from The Fellow Gamer Podcast.
+
+### What is TFGP?
+
+The Fellow Gamer Podcast or TFGP for short is a gaming podcast that is focused on the most sensitive topics, like is Valorant a CS:GO Killer, or what happened in TGA, etc.
