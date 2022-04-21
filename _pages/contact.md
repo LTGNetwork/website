@@ -23,6 +23,9 @@ Click the chat icon down the right side of the page.
 Email us for direct inquiries:
 
 [General Inquiries](mailto:general@ltg.network)
+
 [Business Inquiries](mailto:business@ltg.network)
+
 [Collab Inquiries](mailto:collab@ltg.network)
+
 [Advertising and Sponsorships](mailto:advertisement@ltg.network)
