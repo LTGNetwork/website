@@ -10,10 +10,19 @@ author_profile: true
 
 Here are some ways that you can contact us.
 
-## 1. Email
+## 1. Discord
 
-{% include ltgn-contact-form.html %}
+You can go to [https://discord.io/ltgnetwork](https://discord.io/ltgnetwork) and click the #help-and-faq section.
 
-## 2. Discord
+## 2. Tawk.to chat
 
-You can go to [https://discord.io/ltgnetwork](https://discord.io/ltgnetwork) and click #help-and-faq section.
+Click the chat icon down the right side of the page.
+
+## 3. Email
+
+Email us for direct inquiries:
+
+[General Inquiries](mailto:general@ltg.network)
+[Business Inquiries](mailto:business@ltg.network)
+[Collab Inquiries](mailto:collab@ltg.network)
+[Advertising and Sponsorships](mailto:advertisement@ltg.network)
