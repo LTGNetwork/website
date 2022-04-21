@@ -30,7 +30,7 @@ feature_pod_tpp:
     alt: "taympers"
     title: "Taym Pers! Podcast"
     excerpt: "From fun and games, we are going onto much more serious topics, so if you are not into it, welp of course you know what to do."
-    url: "podcast/tpp/"
+    url: "https://anchor.fm/taympers/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
 feature_pod_tfgp:
@@ -38,7 +38,7 @@ feature_pod_tfgp:
     alt: "tfgp"
     title: "The Fellow Gamer Podcast"
     excerpt: "This is not your ordinary podcast, because we are talking about great games, with random entertainment for you guys!"
-    url: "podcast/tfgp/"
+    url: "https://anchor.fm/tfgp/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
 ---
