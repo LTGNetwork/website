@@ -10,6 +10,8 @@ main:
     url: /blog
   - title: "Support Us"
     url: /support-us
+  - title: "Contact Us"
+    url: /contact
   - title: "Terms"
     url: /terms
   - title: "Privacy Policy"

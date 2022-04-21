@@ -34,6 +34,14 @@ No. You don't need to sign an exclusivity deal to join the network. You can join
 
 For the whole network, yes. Click the link [here](https://discord.gg/QaCPhtcSD6) to join. You need to pass the altdentifier bot btw, to prevent alts.
 
+### Cam I support the network?
+
+Yes, you can. You can support the network by clicking the support icon right on top, or if we approved on Adsense, you just need to view the ad and we're good to go.
+
+### I have some business or collab inquiries, what do I do?
+
+You can go to
+
 ## Taym Pers! Questions
 
 All of the Taym Pers! Questions such as same edit upload, etc.
@@ -41,3 +49,5 @@ All of the Taym Pers! Questions such as same edit upload, etc.
 ### Why Odysee for exclusive posts?
 
 Odysee is the best alternative to YouTube. Because you can edit the whole video, if you want to have some changes, the cryptocurrency token LBC which is ₱1 at the time of this writing, and the ability to have a backup, and to avoid demonetization in the future. That's why we have uncensored and censored videos separate from YT and Odysee. Except for horror stuff.
+
+### What is the difference between TFGP 

@@ -3,7 +3,6 @@ layout: single
 permalink: /terms/
 title: "Terms and Conditions"
 last_modified_at: 2022-02-18
-author_profile: true
 toc: true
 ---
 
