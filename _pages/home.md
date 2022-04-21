@@ -49,7 +49,7 @@ feature_pod_tfgp:
 
 {% include feature_row id="feature_main_tp" type="right" %}
 
-## Featured Podcasts
+## LTG Podcast Network Creators
 
 {% include feature_row id="feature_pod_tpp" type="left" %}
 
