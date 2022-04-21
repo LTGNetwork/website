@@ -10,10 +10,6 @@ author_profile: true
 
 Here are some ways that you can contact us.
 
-## 1. Discord
-
-You can go to [https://discord.io/ltgnetwork](https://discord.io/ltgnetwork) and click the #help-and-faq section.
-
 ## 2. Tawk.to chat
 
 Click the chat icon down the right side of the page.
