@@ -15,6 +15,8 @@ From humble beginnings, the LTG Network is on a great journey. Help us to contin
 
 {% include support/coinbase.html %}
 
+Or use [ltgnetwork.wallet](https://unstoppabledomains.com/d/ltgnetwork.wallet) for a direct donation via crypto.
+
 ### Taym Pers!
 
 [Buy Me a Coffee!](https://www.buymeacoffee.com/taympers)
