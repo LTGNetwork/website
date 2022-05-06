@@ -2,6 +2,9 @@
 title: "The Fellow Gamer Podcast Season 2 is coming soon!"
 categories:
   - LTGN Announcements
+header:
+  image: /assets/images/blog/2022/05/tfgp-s2.png
+  og_image: /assets/images/blog/2022/05/tfgp-s2.png
 ---
 
 Yes, we are back for more podcast coming soon! With guests, and now (probably) decent podcast experience like no other before.
